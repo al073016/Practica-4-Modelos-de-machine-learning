@@ -49,7 +49,7 @@ st.markdown("""
   .hero h1 {color: white; margin: 9px 0 12px; font-size: 2.5rem; line-height: 1.12;}
   .hero p {color: #e1f1e8; max-width: 790px; margin-bottom: 0;}
   .step {background: #f4f8f4; border: 1px solid #dce8dc; border-radius: 12px;
-         padding: 16px 20px; height: 100%;}
+         padding: 16px 20px; height: 100%; color: #172220;}
   .step b {display:block; color:#087455; margin-bottom:5px;}
 </style>
 <div class="hero"><div class="eyebrow">PRÁCTICA 4 · PYTHON · EJECUCIÓN REAL</div>
